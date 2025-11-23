@@ -1,4 +1,4 @@
-📄 README – Real-Time QR & Barcode Scanner using OpenCV + Pyzbar
+ Real-Time QR & Barcode Scanner using OpenCV + Pyzbar
 📌 Project Overview
 
 This project is a Real-Time QR and Barcode Scanner built using Python, OpenCV, and Pyzbar.
